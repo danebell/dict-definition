@@ -1,0 +1,5 @@
+name: dictd
+dependencies:
+- python=2.7.*
+- nltk
+- numpy
